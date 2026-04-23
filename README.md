@@ -1,6 +1,6 @@
 # Hi 👋, I'm Soumya M Hanasi
 
-### ELK Engineer @VunetSystems | Computer Science Graduate | Interested in Programming, competitive coding| DevOps Engineer
+### ELK Engineer @VunetSystems | Computer Science Graduate | Interested in Programming | DevOps Engineer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumya-hanasi&label=Profile views&color=0e75b6&style=flat" alt="soumya-hanasi" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 👯 I'm looking to collaborate on **DevOps and AWS Projects**
 
-- 🤝 I'm looking for help with **DevOps Hands-on**
+- 🤝 I'm looking for help with **DevOps**
 
 - 💬 Ask me about **Python | ELK Stack | Kafka | Logstash | Monitoring | Linux | Automation | SQL | AI/ML | Kubernetes | AWS Cloud**
 
