@@ -76,6 +76,7 @@
 <img src="https://skillicons.dev/icons?i=docker" width="50" height="50"/>
 <img src="https://skillicons.dev/icons?i=linux" width="50" height="50"/>
 <img src="https://skillicons.dev/icons?i=grafana" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" width="50" height="50"/>
 <img src="https://skillicons.dev/icons?i=kafka" width="50" height="50"/>
 <img src="https://skillicons.dev/icons?i=kubernetes" width="50" height="50"/>
 
@@ -90,8 +91,6 @@
 <img src="https://skillicons.dev/icons?i=aws" width="50" height="50"/>
 
 <img src="https://skillicons.dev/icons?i=elasticsearch" width="50" height="50"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" width="50" height="50"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50" height="50"/>
 
@@ -126,9 +125,3 @@
 # 📈 Contribution Graph
 
 [![Soumya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=soumya-hanasi&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-# 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=soumya-hanasi&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
