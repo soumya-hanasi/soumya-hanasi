@@ -2,7 +2,7 @@
 
 ### ELK Engineer @ VunetSystems | DevOps Enthusiast | Python Programmer
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=ELK+Engineer;Python+Developer;DevOps+Enthusiast;Kafka+%7C+Kubernetes+%7C+AWS;Observability+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=ELK+Engineer;Python+Developer;DevOps+Enthusiast;Kafka+%7C+Kubernetes+%7C+AWS)](https://git.io/typing-svg)
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=soumya-hanasi&label=Profile%20views&color=0e75b6&style=flat" alt="soumya-hanasi" />
