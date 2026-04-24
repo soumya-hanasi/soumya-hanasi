@@ -56,12 +56,31 @@
 # 👨‍💻 Languages
 
 <p align="left">
+
+<a href="https://www.python.org/" target="_blank">
 <img src="https://skillicons.dev/icons?i=python" width="50" height="50"/>
+</a>
+
+<a href="https://go.dev/" target="_blank">
 <img src="https://skillicons.dev/icons?i=go" width="50" height="50"/>
+</a>
+
+<a href="https://www.java.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=java" width="50" height="50"/>
+</a>
+
+<a href="https://www.cprogramming.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=c" width="50" height="50"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
 <img src="https://skillicons.dev/icons?i=html" width="50" height="50"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
 <img src="https://skillicons.dev/icons?i=css" width="50" height="50"/>
+</a>
+
 </p>
 
 ---
@@ -69,14 +88,39 @@
 # ⚙️ Tools
 
 <p align="left">
+
+<a href="https://git-scm.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=git" width="50" height="50"/>
+</a>
+
+<a href="https://www.docker.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=docker" width="50" height="50"/>
+</a>
+
+<a href="https://www.linux.org/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linux" width="50" height="50"/>
+</a>
+
+<a href="https://grafana.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=grafana" width="50" height="50"/>
+</a>
+
+<a href="https://www.elastic.co/kibana" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" width="50" height="50"/>
+</a>
+
+<a href="https://kafka.apache.org/" target="_blank">
 <img src="https://skillicons.dev/icons?i=kafka" width="50" height="50"/>
+</a>
+
+<a href="https://kubernetes.io/" target="_blank">
 <img src="https://skillicons.dev/icons?i=kubernetes" width="50" height="50"/>
+</a>
+
+<a href="https://www.jenkins.io/" target="_blank">
 <img src="https://skillicons.dev/icons?i=jenkins" width="50" height="50"/>
+</a>
+
 </p>
 
 ---
@@ -84,11 +128,27 @@
 # 🚀 Technologies
 
 <p align="left">
+
+<a href="https://aws.amazon.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=aws" width="50" height="50"/>
+</a>
+
+<a href="https://www.elastic.co/elasticsearch/" target="_blank">
 <img src="https://skillicons.dev/icons?i=elasticsearch" width="50" height="50"/>
+</a>
+
+<a href="https://www.redhat.com/en/technologies/cloud-computing/openshift" target="_blank">
 <img src="https://skillicons.dev/icons?i=openshift" width="50" height="50"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50"/>
+</a>
+
+<a href="https://www.oracle.com/database/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50" height="50"/>
+</a>
+
 </p>
 ---
 
