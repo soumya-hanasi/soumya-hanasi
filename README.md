@@ -56,14 +56,12 @@
 # 👨‍💻 Languages
 
 <p align="left">
-
 <img src="https://skillicons.dev/icons?i=python" width="50" height="50"/>
 <img src="https://skillicons.dev/icons?i=go" width="50" height="50"/>
 <img src="https://skillicons.dev/icons?i=java" width="50" height="50"/>
 <img src="https://skillicons.dev/icons?i=c" width="50" height="50"/>
 <img src="https://skillicons.dev/icons?i=html" width="50" height="50"/>
 <img src="https://skillicons.dev/icons?i=css" width="50" height="50"/>
-
 </p>
 
 ---
@@ -71,7 +69,6 @@
 # ⚙️ Tools
 
 <p align="left">
-
 <img src="https://skillicons.dev/icons?i=git" width="50" height="50"/>
 <img src="https://skillicons.dev/icons?i=docker" width="50" height="50"/>
 <img src="https://skillicons.dev/icons?i=linux" width="50" height="50"/>
@@ -79,7 +76,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" width="50" height="50"/>
 <img src="https://skillicons.dev/icons?i=kafka" width="50" height="50"/>
 <img src="https://skillicons.dev/icons?i=kubernetes" width="50" height="50"/>
-
+<img src="https://skillicons.dev/icons?i=jenkins" width="50" height="50"/>
 </p>
 
 ---
@@ -87,17 +84,12 @@
 # 🚀 Technologies
 
 <p align="left">
-
 <img src="https://skillicons.dev/icons?i=aws" width="50" height="50"/>
-
 <img src="https://skillicons.dev/icons?i=elasticsearch" width="50" height="50"/>
-
+<img src="https://skillicons.dev/icons?i=openshift" width="50" height="50"/>
+<img src="https://skillicons.dev/icons?i=mysql" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50" height="50"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openshift/openshift-original.svg" width="50" height="50"/>
-
 </p>
-
 ---
 
 # 📊 GitHub Stats
