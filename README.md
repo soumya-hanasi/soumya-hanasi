@@ -53,103 +53,34 @@
 
 ---
 
-# 👨‍💻 Languages
+💻 Languages:
 
-<p align="left">
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<a href="https://www.python.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=python" width="50" height="50"/>
-</a>
+⚙️ Tools:
 
-<a href="https://go.dev/" target="_blank">
-<img src="https://skillicons.dev/icons?i=go" width="50" height="50"/>
-</a>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
-<a href="https://www.java.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=java" width="50" height="50"/>
-</a>
+🚀 Technologies:
 
-<a href="https://www.cprogramming.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=c" width="50" height="50"/>
-</a>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-<img src="https://skillicons.dev/icons?i=html" width="50" height="50"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-<img src="https://skillicons.dev/icons?i=css" width="50" height="50"/>
-</a>
-
-</p>
-
----
-
-# ⚙️ Tools
-
-<p align="left">
-
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=git" width="50" height="50"/>
-</a>
-
-<a href="https://www.docker.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=docker" width="50" height="50"/>
-</a>
-
-<a href="https://www.linux.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linux" width="50" height="50"/>
-</a>
-
-<a href="https://grafana.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=grafana" width="50" height="50"/>
-</a>
-
-<a href="https://www.elastic.co/kibana" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" width="50" height="50"/>
-</a>
-
-<a href="https://kafka.apache.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=kafka" width="50" height="50"/>
-</a>
-
-<a href="https://kubernetes.io/" target="_blank">
-<img src="https://skillicons.dev/icons?i=kubernetes" width="50" height="50"/>
-</a>
-
-<a href="https://www.jenkins.io/" target="_blank">
-<img src="https://skillicons.dev/icons?i=jenkins" width="50" height="50"/>
-</a>
-
-</p>
-
----
-
-# 🚀 Technologies
-
-<p align="left">
-
-<a href="https://aws.amazon.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=aws" width="50" height="50"/>
-</a>
-
-<a href="https://www.elastic.co/elasticsearch/" target="_blank">
-<img src="https://skillicons.dev/icons?i=elasticsearch" width="50" height="50"/>
-</a>
-
-<a href="https://www.redhat.com/en/technologies/cloud-computing/openshift" target="_blank">
-<img src="https://skillicons.dev/icons?i=openshift" width="50" height="50"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=mysql" width="50" height="50"/>
-</a>
-
-<a href="https://www.oracle.com/database/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50" height="50"/>
-</a>
-
-</p>
 ---
 
 # 📊 GitHub Stats
